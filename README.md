@@ -61,17 +61,17 @@ CPP ile görüntü işleme projeleri geliştirirken destekleme amaçlı fonksiyo
 	</tr>
 </table>
 <br/>
+
 <table>
 	<tr>
 		<th colspan=2> <b> OPENCV_03 </b> </th>	
 	</tr>
-	<tr>
-		
+	<tr>	
 		<td> main();  </td>
 		<td> Maskeleme ve XML işlemlerine değinilmiştir. </td>
-	</tr>
-	
+	</tr>	
 </table>
+
 <br/>
 <table>
 	<tr>
