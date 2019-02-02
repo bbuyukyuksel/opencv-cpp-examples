@@ -25,6 +25,7 @@ CPP ile görüntü işleme projeleri geliştirirken destekleme amaçlı fonksiyo
 *	<i> OPENCV_03.cpp </i>
 *	<i> OPENCV_04.cpp </i>
 
+## İçerik Açıklamaları;
 
 <table>
 	<tr>
