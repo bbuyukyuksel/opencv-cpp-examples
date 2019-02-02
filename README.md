@@ -1,11 +1,3 @@
-
-#OPENCV_01.cpp
-
-## void ImageReadWrite(string);
-	Görüntüyü okuma, kaydetme, kaydetme parametreleri ile ilgili kaynak kodlar yer almaktadır.
-## void WebcamPlayer(void)
-	Webcam'den görüntü alınması sağlanarak, ekrana yansıtılması sağlanmıştır.
-
 # OPENCV CPP ÖRNEKLERİ
 
 **Versiyon	:**  1.0 		<br />
@@ -15,8 +7,7 @@
 <hr />
 
 ## Neyi amaçlar?
-
-CPP ile görüntü işleme projeleri geliştirirken destekleme amaçlı fonksiyonların kullanımı ile bilgilendirme sağlamayı amaçlamaktadır.
+	CPP ile görüntü işleme projeleri geliştirirken destekleme amaçlı fonksiyonların kullanımı ile bilgilendirme sağlamayı amaçlamaktadır.
 
 ## Örnekler;
 
